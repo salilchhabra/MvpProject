@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity(), IView {
                 run {
                     presenter?.displayText()
                 }
-            }, 5000)
+            }, 4000)
         }
     }
 
